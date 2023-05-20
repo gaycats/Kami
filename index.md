@@ -4,7 +4,6 @@ title: About me
 subtitle: Every day I strive to be better.
 ---
 
-{% raw %}
 My name is [blehhh]
 
 - thing 1
@@ -12,4 +11,3 @@ My name is [blehhh]
 ### thing 2
 
 kami you do it this isnt my bio
-{% endraw %}
