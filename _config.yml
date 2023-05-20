@@ -31,7 +31,7 @@ author: Kamila
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://pbs.twimg.com/profile_images/1589015975147409408/sGBToqdu.jpg"
+avatar: "/icon.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
