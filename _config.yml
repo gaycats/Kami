@@ -19,8 +19,8 @@ author: Kamila
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-#  About Me : "https://en.pronouns.page/@kamila__"
+navbar-links:
+  pronouns.page : "https://en.pronouns.page/@kamila__"
 #  Resources:
 #    - pronouns.page: "https://en.pronouns.page/@kamila__"
 #  Author's home: "https://en.pronouns.page/@kamila__"
