@@ -4,10 +4,23 @@ title: About me
 subtitle: Every day I strive to be better.
 ---
 
-My name is [blehhh]
+My name is Kamila, Kami for short  
 
-- thing 1
+Korean GD creator and player
 
-### thing 2
+- Favorite creations: Hells Gate
+- Most impressive achievement: Slaughterhouse in 3 runs
 
-kami you do it this isnt my bio
+Im a Pansexual and Genderfluid furry, usually very active on discord (Kamila!~#0212)
+
+#### Geometry Dash Info:
+
+Currently working on 4 main projects
+- Hells Gate
+- Clock Machine
+- Ego Death
+- BXTTERFLIES
+
+Currently not open to join collabs  
+
+2757 stars and 127 demons as of May 19 2023
