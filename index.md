@@ -11,16 +11,16 @@ Korean GD creator and player
 - Favorite creations: Hells Gate
 - Most impressive achievement: Slaughterhouse in 3 runs
 
-Im a Pansexual and Genderfluid furry, usually very active on discord (Kamila!~#0212)
+Im a Pansexual and Genderfluid furry, usually very active on discord (kamila0.)
 
 #### Geometry Dash Info:
 
 Currently working on 4 main projects
+- Shijikei
+- Yours Truly
 - Hells Gate
-- Clock Machine
 - Ego Death
-- BXTTERFLIES
 
 Currently not open to join collabs  
 
-2757 stars and 127 demons as of May 19 2023
+2819 stars and 129 demons as of June 26th 2023
